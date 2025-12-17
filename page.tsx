@@ -1,4 +1,4 @@
-import { Suspense } from "react";
+import { Suspense } from "react";git 
 import { getQueryClient, trpc } from "@/trpc/server"; 
 import { dehydrate, HdfrationBoundary } from "@tanstack/react-query";
 
