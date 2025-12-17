@@ -67,4 +67,6 @@ logs/
 *.temp
 *.tmp
 node_ modules/
-bun.lock
+.env
+dist/
+.next/
