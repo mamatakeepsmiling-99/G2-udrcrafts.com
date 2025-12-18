@@ -70,3 +70,4 @@ node_ modules/
 .env
 dist/
 .next/
+node_modules
