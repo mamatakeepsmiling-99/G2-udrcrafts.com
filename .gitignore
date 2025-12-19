@@ -71,3 +71,6 @@ node_ modules/
 dist/
 .next/
 node_modules
+.env
+dist/
+.next/
